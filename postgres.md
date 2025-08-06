@@ -67,7 +67,7 @@ Aquí tienes una guía rápida con los **pasos para configurar DataGrip**, el en
 * Usa **File > Save All** para guardar tu trabajo y conexiones.
 
 
-Creación de la base de datos PostgreSQL desde DataGrip.
+# Creación de la base de datos PostgreSQL desde DataGrip.
 
 Abrir Una Query Console y ejecutar 
 CREATE DATABASE my_first_database;
